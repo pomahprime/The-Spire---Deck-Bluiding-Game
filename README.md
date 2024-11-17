@@ -1,2 +1,3 @@
 # The-Spire---Deck-Bluiding-Game
-FDSFSDFSDFSDFSD
+Game in progress -
+Deck building Game
